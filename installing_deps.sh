@@ -76,7 +76,7 @@ sudo make install
 popd
 
 # ARDB #
-test ! -d ardb/ && git clone https://github.com/yinqiwen/ardb.git
+test ! -d ardb/ && git clone https://github.com/0x90/ardb.git
 pushd ardb/
 make
 popd
